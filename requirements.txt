@@ -1,0 +1,30 @@
+habanero
+pymongo
+bson
+requests
+lxml
+io
+
+Important things to know: 
+
+You will need to download MongoDB database on your computer if you don't already have it. Then you need to create
+a database and collection in MongoDB manually. Then you will need to then change the code to include the new names of
+the database and collection respectively.
+My database is named "career_project_dreu" and collection is "publications". You will need to change the code in 
+pipeline-habanero.py on lines 11 and 12 and also in scopus-api-mining.py and xml-parsing.py on lines 6 and 7. 
+
+There is a setup.sh file that has the commands for downloading relevant python libraries for a MacBook. 
+
+The main testing is for pipeline-habanero.py and scopus-api-mining.py. 
+
+On line 8, in pipeline-habanero.py, change the email address to your personal email. 
+
+Start by first testing pipeline-habanero.py with the Creative Commons DOI, you should be able to run it without any errors.
+Uncomment the 2 commands: store_pdftext(urls["application/pdf"], doi) and store_xmltext(urls["application/xml"], doi) and run it, you
+should be able see the text stored in the database properly. 
+
+Then move on to the 2 other DOIs for Elsevier and Wiley. Comment the store commands again. Both DOIs should give you the
+license URLs and nothing else. 
+
+Then move on to the scopus-mining-api.py, first get an API key from https://dev.elsevier.com and then replace the API key
+on line 49. Run the file and you should see the full text in the database. 
