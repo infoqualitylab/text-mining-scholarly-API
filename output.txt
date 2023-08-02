@@ -1,0 +1,1252 @@
+Count: 1 DOI: 10.1002/anie.201706532
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fanie.201706532', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/anie.201706532/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 2 DOI: 10.1002/anie.201708266
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fanie.201708266', 'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201708266'}
+Successfully downloaded PDF file
+
+Count: 3 DOI: 10.1002/anie.201810566
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201810566', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/anie.201810566', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201810566'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 4 DOI: 10.1002/anie.201902777
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201902777', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/anie.201902777', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201902777'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 5 DOI: 10.1002/anie.201916566
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#am
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/anie.201916566', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/anie.201916566', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201916566'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 6 DOI: 10.1002/cbdv.201700294
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcbdv.201700294', 'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/cbdv.201700294'}
+Successfully downloaded PDF file
+
+Count: 7 DOI: 10.1002/cbdv.202100707
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/cbdv.202100707', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/cbdv.202100707', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/cbdv.202100707'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 8 DOI: 10.1002/chem.201601150
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201601150'}
+
+Count: 9 DOI: 10.1002/chem.201602242
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201602242'}
+
+Count: 10 DOI: 10.1002/chem.202001884
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202001884', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/chem.202001884', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202001884'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 11 DOI: 10.1002/chem.202004790
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#am
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/chem.202004790', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/chem.202004790', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202004790'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 12 DOI: 10.1002/chir.23189
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#am
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/chir.23189', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/chir.23189', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/chir.23189'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 13 DOI: 10.1002/cjoc.202200383
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/cjoc.202200383', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/cjoc.202200383', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/cjoc.202200383'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 14 DOI: 10.1002/ejoc.201403457
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/ejoc.201403457'}
+
+Count: 15 DOI: 10.1002/ejoc.201403569
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/ejoc.201403569'}
+
+Count: 16 DOI: 10.1002/ejoc.201901363
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fejoc.201901363', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/ejoc.201901363/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 17 DOI: 10.1002/ejoc.202000158
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fejoc.202000158', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/ejoc.202000158/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 18 DOI: 10.1002/mrc.4130
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/mrc.4130'}
+
+Count: 19 DOI: 10.1002/mrc.4302
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/mrc.4302/fullpdf', 'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.4302'}
+Successfully downloaded PDF file
+
+Count: 20 DOI: 10.1002/mrc.4312
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/mrc.4312'}
+
+Count: 21 DOI: 10.1002/mrc.4411
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/mrc.4411/fullpdf', 'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.4411'}
+Successfully downloaded PDF file
+
+Count: 22 DOI: 10.1002/mrc.4469
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#am
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/mrc.4469', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.4469', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.4469'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 23 DOI: 10.1002/mrc.4502
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.4502', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.4502', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.4502'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 24 DOI: 10.1002/mrc.4527
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.4527', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.4527', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.4527'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 25 DOI: 10.1002/mrc.4818
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.4818', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/mrc.4818/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 26 DOI: 10.1002/mrc.4892
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#am
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/mrc.4892', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.4892', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.4892'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 27 DOI: 10.1002/mrc.4951
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.4951', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/mrc.4951/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 28 DOI: 10.1002/mrc.4959
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.4959', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/mrc.4959/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 29 DOI: 10.1002/mrc.4989
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmrc.4989', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/mrc.4989/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 30 DOI: 10.1002/mrc.5077
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#am
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/mrc.5077', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.5077', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5077'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 31 DOI: 10.1002/mrc.5087
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5087', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.5087', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5087'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 32 DOI: 10.1002/mrc.5234
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5234', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.5234', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5234'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 33 DOI: 10.1002/mrc.5260
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5260', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mrc.5260', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5260'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 34 DOI: 10.1002/pssb.201800335
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/pssb.201800335', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/pssb.201800335', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/pssb.201800335'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 35 DOI: 10.1002/qua.25655
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fqua.25655', 'unspecified': 'http://onlinelibrary.wiley.com/wol1/doi/10.1002/qua.25655/fullpdf'}
+Successfully downloaded PDF file
+
+Count: 36 DOI: 10.1002/qua.26456
+License URL: http://onlinelibrary.wiley.com/termsAndConditions#vor
+{'application/pdf': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26456', 'application/xml': 'https://onlinelibrary.wiley.com/doi/full-xml/10.1002/qua.26456', 'unspecified': 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26456'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 37 DOI: 10.1002/wcms.1214
+License URL: http://doi.wiley.com/10.1002/tdm_license_1.1
+{'application/pdf': 'https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fwcms.1214', 'unspecified': 'https://onlinelibrary.wiley.com/doi/full/10.1002/wcms.1214'}
+Successfully downloaded PDF file
+
+Count: 38 DOI: 10.1007/164_2022_617
+License URL: https://www.springernature.com/gp/researchers/text-and-data-mining
+{'unspecified': 'https://link.springer.com/content/pdf/10.1007/164_2022_617'}
+
+Count: 39 DOI: 10.1007/978-981-10-5966-7_17
+License URL: http://www.springer.com/tdm
+{'unspecified': 'http://link.springer.com/content/pdf/10.1007/978-981-10-5966-7_17'}
+
+Count: 40 DOI: 10.1007/s00706-017-2056-z
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s00706-017-2056-z.pdf'}
+Successfully downloaded PDF file
+
+Count: 41 DOI: 10.1007/s00894-015-2639-8
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s00894-015-2639-8.pdf', 'unspecified': 'http://link.springer.com/content/pdf/10.1007/s00894-015-2639-8'}
+Successfully downloaded PDF file
+
+Count: 42 DOI: 10.1007/s00894-016-3045-6
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s00894-016-3045-6.pdf', 'unspecified': 'http://link.springer.com/content/pdf/10.1007/s00894-016-3045-6'}
+Successfully downloaded PDF file
+
+Count: 43 DOI: 10.1007/s00894-016-3172-0
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s00894-016-3172-0.pdf'}
+Successfully downloaded PDF file
+
+Count: 44 DOI: 10.1007/s10593-014-1489-0
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s10593-014-1489-0.pdf', 'unspecified': 'http://link.springer.com/content/pdf/10.1007/s10593-014-1489-0'}
+Successfully downloaded PDF file
+
+Count: 45 DOI: 10.1007/s10593-018-2279-x
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s10593-018-2279-x.pdf'}
+Successfully downloaded PDF file
+
+Count: 46 DOI: 10.1007/s11418-019-01321-8
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s11418-019-01321-8.pdf'}
+Successfully downloaded PDF file
+
+Count: 47 DOI: 10.1007/s12272-020-01277-4
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s12272-020-01277-4.pdf'}
+Successfully downloaded PDF file
+
+Count: 48 DOI: 10.1007/s13659-019-0203-4
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1007/s13659-019-0203-4.pdf'}
+Successfully downloaded PDF file
+
+Count: 49 DOI: 10.1007/s13659-020-00248-y
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'https://link.springer.com/content/pdf/10.1007/s13659-020-00248-y.pdf'}
+Successfully downloaded PDF file
+
+Count: 50 DOI: 10.1007/s13659-022-00342-3
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'https://link.springer.com/content/pdf/10.1007/s13659-022-00342-3.pdf'}
+Successfully downloaded PDF file
+
+Count: 51 DOI: 10.1007/s43450-022-00333-y
+License URL: https://www.springernature.com/gp/researchers/text-and-data-mining
+{'application/pdf': 'https://link.springer.com/content/pdf/10.1007/s43450-022-00333-y.pdf'}
+Successfully downloaded PDF file
+
+Count: 52 DOI: 10.1016/B978-0-12-812364-5.00007-9
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:B9780128123645000079?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:B9780128123645000079?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 53 DOI: 10.1016/S1875-5364(19)30120-7
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1875536419301207?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1875536419301207?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 54 DOI: 10.1016/j.aca.2019.01.023
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0003267019300923?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0003267019300923?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 55 DOI: 10.1016/j.apsb.2021.05.001
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S2211383521001635?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S2211383521001635?httpAccept=text/plain'}
+Full text downloaded from Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 56 DOI: 10.1016/j.bioorg.2020.104397
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0045206820316953?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0045206820316953?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 57 DOI: 10.1016/j.bioorg.2020.104597
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0045206820318952?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0045206820318952?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 58 DOI: 10.1016/j.bioorg.2022.106025
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S004520682200431X?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S004520682200431X?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 59 DOI: 10.1016/j.bmc.2019.07.021
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S096808961930776X?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S096808961930776X?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 60 DOI: 10.1016/j.chemphyslip.2020.104973
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0009308420301043?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0009308420301043?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 61 DOI: 10.1016/j.comptc.2014.11.007
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S2210271X14005039?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S2210271X14005039?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 62 DOI: 10.1016/j.copbio.2016.07.006
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0958166916301744?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0958166916301744?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 63 DOI: 10.1016/j.crci.2019.10.006
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1631074819301742?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1631074819301742?httpAccept=text/plain'}
+Full text downloaded from Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 64 DOI: 10.1016/j.drudis.2018.02.014
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1359644617305068?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1359644617305068?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 65 DOI: 10.1016/j.ejmech.2020.112888
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0223523420308606?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0223523420308606?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 66 DOI: 10.1016/j.ejmech.2022.114948
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0223523422008509?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0223523422008509?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 67 DOI: 10.1016/j.fitote.2019.104466
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0367326X19321872?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0367326X19321872?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 68 DOI: 10.1016/j.fitote.2020.104529
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0367326X20301118?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0367326X20301118?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 69 DOI: 10.1016/j.fitote.2023.105546
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0367326X23001211?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0367326X23001211?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 70 DOI: 10.1016/j.heliyon.2019.e02518
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S240584401936178X?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S240584401936178X?httpAccept=text/plain'}
+Full text downloaded from Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 71 DOI: 10.1016/j.isci.2021.103384
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S2589004221013559?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S2589004221013559?httpAccept=text/plain'}
+Full text downloaded from Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 72 DOI: 10.1016/j.jaap.2023.105882
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0165237023000268?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0165237023000268?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 73 DOI: 10.1016/j.jcou.2017.06.012
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S2212982016304917?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S2212982016304917?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 74 DOI: 10.1016/j.jff.2017.07.036
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1756464617304243?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1756464617304243?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 75 DOI: 10.1016/j.jmr.2018.08.009
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1090780718302131?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1090780718302131?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 76 DOI: 10.1016/j.jorganchem.2018.03.014
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022328X18301736?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022328X18301736?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 77 DOI: 10.1016/j.jphotochem.2018.04.039
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1010603018303496?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1010603018303496?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 78 DOI: 10.1016/j.molliq.2022.120342
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0167732222018815?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0167732222018815?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 79 DOI: 10.1016/j.molstruc.2014.07.020
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286014007418?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286014007418?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 80 DOI: 10.1016/j.molstruc.2015.08.028
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286015302167?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286015302167?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 81 DOI: 10.1016/j.molstruc.2017.05.139
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286017307597?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286017307597?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 82 DOI: 10.1016/j.molstruc.2017.09.058
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286017312450?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286017312450?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 83 DOI: 10.1016/j.molstruc.2017.09.065
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286017312528?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286017312528?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 84 DOI: 10.1016/j.molstruc.2018.03.050
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286018303399?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286018303399?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 85 DOI: 10.1016/j.molstruc.2018.10.064
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286018312596?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286018312596?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 86 DOI: 10.1016/j.molstruc.2018.11.085
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S002228601831398X?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S002228601831398X?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 87 DOI: 10.1016/j.molstruc.2019.01.052
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286019300626?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286019300626?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 88 DOI: 10.1016/j.molstruc.2020.128157
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286020304828?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286020304828?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 89 DOI: 10.1016/j.molstruc.2020.128834
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286020311595?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286020311595?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 90 DOI: 10.1016/j.molstruc.2021.131159
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286021012898?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286021012898?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 91 DOI: 10.1016/j.molstruc.2022.132883
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022286022005543?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022286022005543?httpAccept=text/plain'}
+Full text downloaded from Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 92 DOI: 10.1016/j.phytochem.2018.10.022
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0031942218303571?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0031942218303571?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 93 DOI: 10.1016/j.phytochem.2022.113136
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0031942222000528?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0031942222000528?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 94 DOI: 10.1016/j.phytochem.2022.113200
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0031942222001169?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0031942222001169?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 95 DOI: 10.1016/j.phytochem.2022.113278
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0031942222001947?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0031942222001947?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 96 DOI: 10.1016/j.phytochem.2023.113587
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0031942223000031?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0031942223000031?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 97 DOI: 10.1016/j.phytochem.2023.113690
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0031942223001061?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0031942223001061?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 98 DOI: 10.1016/j.phytol.2015.07.004
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1874390015300276?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1874390015300276?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 99 DOI: 10.1016/j.phytol.2019.12.008
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S187439001930713X?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S187439001930713X?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 100 DOI: 10.1016/j.phytol.2021.09.004
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1874390021002147?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1874390021002147?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 101 DOI: 10.1016/j.phytol.2023.03.005
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1874390023000472?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1874390023000472?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 102 DOI: 10.1016/j.pnmrs.2016.08.001
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/plain': 'https://api.elsevier.com/content/article/PII:S0079656516300061?httpAccept=text/plain', 'text/xml': 'https://api.elsevier.com/content/article/PII:S0079656516300061?httpAccept=text/xml'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 103 DOI: 10.1016/j.pnmrs.2017.11.003
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0079656517300572?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0079656517300572?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 104 DOI: 10.1016/j.pnmrs.2019.05.004
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0079656519300020?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0079656519300020?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 105 DOI: 10.1016/j.polymer.2022.125153
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0032386122006413?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0032386122006413?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 106 DOI: 10.1016/j.saa.2019.117685
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S1386142519310753?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S1386142519310753?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 107 DOI: 10.1016/j.tet.2014.07.070
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040402014010849?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040402014010849?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 108 DOI: 10.1016/j.tet.2015.03.016
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040402015003142?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040402015003142?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 109 DOI: 10.1016/j.tet.2016.12.027
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040402016313059?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040402016313059?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 110 DOI: 10.1016/j.tet.2019.03.056
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040402019303850?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040402019303850?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 111 DOI: 10.1016/j.tet.2022.132955
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040402022003933?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040402022003933?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 112 DOI: 10.1016/j.tetlet.2018.02.031
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040403918302016?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040403918302016?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 113 DOI: 10.1016/j.tetlet.2019.05.061
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040403919305155?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040403919305155?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 114 DOI: 10.1016/j.tetlet.2020.152548
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0040403920310418?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0040403920310418?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 115 DOI: 10.1016/j.xphs.2017.08.008
+License URL: https://www.elsevier.com/tdm/userlicense/1.0/
+{'text/xml': 'https://api.elsevier.com/content/article/PII:S0022354917305725?httpAccept=text/xml', 'text/plain': 'https://api.elsevier.com/content/article/PII:S0022354917305725?httpAccept=text/plain'}
+Error occured in Elsevier API
+Full text downloaded from Elsevier API
+
+Count: 116 DOI: 10.1021/acs.accounts.0c00365
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.0c00365'}
+
+Count: 117 DOI: 10.1021/acs.accounts.3c00183
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.3c00183', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.3c00183'}
+Successfully downloaded PDF file
+
+Count: 118 DOI: 10.1021/acs.analchem.0c00768
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.0c00768'}
+
+Count: 119 DOI: 10.1021/acs.analchem.0c04341
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.0c04341'}
+
+Count: 120 DOI: 10.1021/acs.analchem.2c05145
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.2c05145', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.2c05145'}
+Successfully downloaded PDF file
+
+Count: 121 DOI: 10.1021/acs.analchem.8b04567
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.8b04567'}
+
+Count: 122 DOI: 10.1021/acs.chemrev.0c00901
+License URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c00901', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c00901'}
+Successfully downloaded PDF file
+
+Count: 123 DOI: 10.1021/acs.energyfuels.1c04336
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.1c04336'}
+
+Count: 124 DOI: 10.1021/acs.jcim.2c01093
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c01093', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c01093'}
+Successfully downloaded PDF file
+
+Count: 125 DOI: 10.1021/acs.jctc.0c00860
+License URL: http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html
+{'application/pdf': 'http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00860', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00860'}
+Successfully downloaded PDF file
+
+Count: 126 DOI: 10.1021/acs.jctc.0c00979
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.0c00979'}
+
+Count: 127 DOI: 10.1021/acs.jctc.5b00856
+No license information.
+Count: 128 DOI: 10.1021/acs.jctc.7b00772
+License URL: http://pubs.acs.org/page/policy/authorchoice_termsofuse.html
+{'application/pdf': 'http://pubs.acs.org/doi/pdf/10.1021/acs.jctc.7b00772', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.7b00772'}
+Successfully downloaded PDF file
+
+Count: 129 DOI: 10.1021/acs.jmedchem.9b00716
+License URL: http://pubs.acs.org/page/policy/authorchoice_termsofuse.html
+{'application/pdf': 'http://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.9b00716', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.9b00716'}
+Successfully downloaded PDF file
+
+Count: 130 DOI: 10.1021/acs.jnatprod.0c00745
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.0c00745'}
+
+Count: 131 DOI: 10.1021/acs.jnatprod.0c00910
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.0c00910'}
+
+Count: 132 DOI: 10.1021/acs.jnatprod.0c00929
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.0c00929'}
+
+Count: 133 DOI: 10.1021/acs.jnatprod.0c01305
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.0c01305'}
+
+Count: 134 DOI: 10.1021/acs.jnatprod.0c01309
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.0c01309'}
+
+Count: 135 DOI: 10.1021/acs.jnatprod.1c00185
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.1c00185'}
+
+Count: 136 DOI: 10.1021/acs.jnatprod.1c00738
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.1c00738'}
+
+Count: 137 DOI: 10.1021/acs.jnatprod.1c00980
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.1c00980', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.1c00980'}
+Successfully downloaded PDF file
+
+Count: 138 DOI: 10.1021/acs.jnatprod.1c01014
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.1c01014'}
+
+Count: 139 DOI: 10.1021/acs.jnatprod.2c00151
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00151', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00151'}
+Successfully downloaded PDF file
+
+Count: 140 DOI: 10.1021/acs.jnatprod.2c00174
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00174', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00174'}
+Successfully downloaded PDF file
+
+Count: 141 DOI: 10.1021/acs.jnatprod.2c00257
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00257', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00257'}
+Successfully downloaded PDF file
+
+Count: 142 DOI: 10.1021/acs.jnatprod.2c00332
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00332', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00332'}
+Successfully downloaded PDF file
+
+Count: 143 DOI: 10.1021/acs.jnatprod.2c00731
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00731', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c00731'}
+Successfully downloaded PDF file
+
+Count: 144 DOI: 10.1021/acs.jnatprod.2c01140
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c01140', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.2c01140'}
+Successfully downloaded PDF file
+
+Count: 145 DOI: 10.1021/acs.jnatprod.3c00139
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.3c00139', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.3c00139'}
+Successfully downloaded PDF file
+
+Count: 146 DOI: 10.1021/acs.jnatprod.5b00439
+No license information.
+Count: 147 DOI: 10.1021/acs.jnatprod.5b00695
+No license information.
+Count: 148 DOI: 10.1021/acs.jnatprod.5b00832
+No license information.
+Count: 149 DOI: 10.1021/acs.jnatprod.6b00574
+No license information.
+Count: 150 DOI: 10.1021/acs.jnatprod.6b00799
+No license information.
+Count: 151 DOI: 10.1021/acs.jnatprod.7b00587
+No license information.
+Count: 152 DOI: 10.1021/acs.jnatprod.7b00807
+No license information.
+Count: 153 DOI: 10.1021/acs.jnatprod.7b00926
+No license information.
+Count: 154 DOI: 10.1021/acs.jnatprod.8b00024
+No license information.
+Count: 155 DOI: 10.1021/acs.jnatprod.8b00234
+No license information.
+Count: 156 DOI: 10.1021/acs.jnatprod.8b00494
+No license information.
+Count: 157 DOI: 10.1021/acs.jnatprod.8b00567
+No license information.
+Count: 158 DOI: 10.1021/acs.jnatprod.8b00713
+No license information.
+Count: 159 DOI: 10.1021/acs.jnatprod.8b00838
+No license information.
+Count: 160 DOI: 10.1021/acs.jnatprod.8b00956
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.8b00956'}
+
+Count: 161 DOI: 10.1021/acs.jnatprod.8b01054
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.8b01054'}
+
+Count: 162 DOI: 10.1021/acs.jnatprod.9b00173
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00173'}
+
+Count: 163 DOI: 10.1021/acs.jnatprod.9b00416
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00416'}
+
+Count: 164 DOI: 10.1021/acs.jnatprod.9b00493
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00493'}
+
+Count: 165 DOI: 10.1021/acs.jnatprod.9b00551
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00551'}
+
+Count: 166 DOI: 10.1021/acs.jnatprod.9b00859
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00859'}
+
+Count: 167 DOI: 10.1021/acs.jnatprod.9b00917
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00917'}
+
+Count: 168 DOI: 10.1021/acs.jnatprod.9b01108
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b01108'}
+
+Count: 169 DOI: 10.1021/acs.joc.0c01988
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.0c01988'}
+
+Count: 170 DOI: 10.1021/acs.joc.0c02214
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.0c02214'}
+
+Count: 171 DOI: 10.1021/acs.joc.1c01235
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.1c01235', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.1c01235'}
+Successfully downloaded PDF file
+
+Count: 172 DOI: 10.1021/acs.joc.2c01415
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.2c01415', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.2c01415'}
+Successfully downloaded PDF file
+
+Count: 173 DOI: 10.1021/acs.joc.5b00421
+No license information.
+Count: 174 DOI: 10.1021/acs.joc.5b02396
+No license information.
+Count: 175 DOI: 10.1021/acs.joc.6b01431
+No license information.
+Count: 176 DOI: 10.1021/acs.joc.7b00321
+No license information.
+Count: 177 DOI: 10.1021/acs.joc.8b00104
+No license information.
+Count: 178 DOI: 10.1021/acs.joc.8b00800
+No license information.
+Count: 179 DOI: 10.1021/acs.joc.8b02724
+No license information.
+Count: 180 DOI: 10.1021/acs.joc.8b02975
+License URL: http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html
+{'application/pdf': 'http://pubs.acs.org/doi/pdf/10.1021/acs.joc.8b02975', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.8b02975'}
+Successfully downloaded PDF file
+
+Count: 181 DOI: 10.1021/acs.joc.8b03028
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.8b03028'}
+
+Count: 182 DOI: 10.1021/acs.joc.9b01633
+License URL: http://pubs.acs.org/page/policy/authorchoice_termsofuse.html
+{'application/pdf': 'http://pubs.acs.org/doi/pdf/10.1021/acs.joc.9b01633', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.9b01633'}
+Successfully downloaded PDF file
+
+Count: 183 DOI: 10.1021/acs.joc.9b03129
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'http://pubs.acs.org/doi/pdf/10.1021/acs.joc.9b03129', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.joc.9b03129'}
+Successfully downloaded PDF file
+
+Count: 184 DOI: 10.1021/acs.jpca.1c08687
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.jpca.1c08687'}
+
+Count: 185 DOI: 10.1021/acs.jpca.7b01954
+No license information.
+Count: 186 DOI: 10.1021/acs.jpcc.6b06155
+No license information.
+Count: 187 DOI: 10.1021/acs.macromol.7b01692
+No license information.
+Count: 188 DOI: 10.1021/acs.oprd.2c00313
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.oprd.2c00313', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.oprd.2c00313'}
+Successfully downloaded PDF file
+
+Count: 189 DOI: 10.1021/acs.orglett.0c01001
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.0c01001'}
+
+Count: 190 DOI: 10.1021/acs.orglett.0c03565
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.0c03565'}
+
+Count: 191 DOI: 10.1021/acs.orglett.2c02187
+License URL: https://doi.org/10.15223/policy-029
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.2c02187', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.2c02187'}
+Successfully downloaded PDF file
+
+Count: 192 DOI: 10.1021/acs.orglett.5b00902
+No license information.
+Count: 193 DOI: 10.1021/acs.orglett.6b02832
+No license information.
+Count: 194 DOI: 10.1021/acs.orglett.7b03706
+No license information.
+Count: 195 DOI: 10.1021/acs.orglett.9b01248
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.9b01248'}
+
+Count: 196 DOI: 10.1021/acs.orglett.9b03216
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.9b03216'}
+
+Count: 197 DOI: 10.1021/acs.orglett.9b03866
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.9b03866'}
+
+Count: 198 DOI: 10.1021/acschembio.5b00894
+No license information.
+Count: 199 DOI: 10.1021/ed4006584
+No license information.
+Count: 200 DOI: 10.1021/ja508119d
+No license information.
+Count: 201 DOI: 10.1021/jacs.5b07858
+No license information.
+Count: 202 DOI: 10.1021/jacs.6b07268
+No license information.
+Count: 203 DOI: 10.1021/jacs.6b11081
+No license information.
+Count: 204 DOI: 10.1021/jacs.7b07706
+No license information.
+Count: 205 DOI: 10.1021/jacs.8b01330
+No license information.
+Count: 206 DOI: 10.1021/jacs.8b05459
+No license information.
+Count: 207 DOI: 10.1021/jacs.8b11403
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/jacs.8b11403'}
+
+Count: 208 DOI: 10.1021/jacs.8b13481
+License URL: https://doi.org/10.15223/policy-029
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/jacs.8b13481'}
+
+Count: 209 DOI: 10.1021/jacsau.1c00568
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'https://pubs.acs.org/doi/pdf/10.1021/jacsau.1c00568', 'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/jacsau.1c00568'}
+Successfully downloaded PDF file
+
+Count: 210 DOI: 10.1021/jo501813d
+License URL: http://pubs.acs.org/page/policy/authorchoice_termsofuse.html
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/jo501813d'}
+
+Count: 211 DOI: 10.1021/np5002384
+License URL: http://pubs.acs.org/page/policy/authorchoice_termsofuse.html
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/np5002384'}
+
+Count: 212 DOI: 10.1021/ol501853y
+License URL: http://pubs.acs.org/page/policy/authorchoice_termsofuse.html
+{'unspecified': 'https://pubs.acs.org/doi/pdf/10.1021/ol501853y'}
+
+Count: 213 DOI: 10.1038/ja.2016.51
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://www.nature.com/articles/ja201651.pdf'}
+Successfully downloaded PDF file
+
+Count: 214 DOI: 10.1038/nature23265
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://www.nature.com/articles/nature23265.pdf', 'unspecified': 'http://www.nature.com/doifinder/10.1038/nature23265'}
+Successfully downloaded PDF file
+
+Count: 215 DOI: 10.1038/s41467-019-12453-6
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'https://www.nature.com/articles/s41467-019-12453-6.pdf'}
+Successfully downloaded PDF file
+
+Count: 216 DOI: 10.1038/s41596-018-0091-9
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://www.nature.com/articles/s41596-018-0091-9.pdf'}
+Successfully downloaded PDF file
+
+Count: 217 DOI: 10.1038/s41596-020-0293-9
+License URL: http://www.springer.com/tdm
+{'application/pdf': 'http://www.nature.com/articles/s41596-020-0293-9.pdf'}
+Successfully downloaded PDF file
+
+Count: 218 DOI: 10.1038/s41598-017-06005-5
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'https://www.nature.com/articles/s41598-017-06005-5.pdf'}
+Successfully downloaded PDF file
+
+Count: 219 DOI: 10.1039/9781782623946-00369
+No license information.
+Count: 220 DOI: 10.1039/c4ob01251h
+No license information.
+Count: 221 DOI: 10.1039/c6ob00606j
+No license information.
+Count: 222 DOI: 10.1039/c6qo00556j
+No license information.
+Count: 223 DOI: 10.1039/c6qo00620e
+No license information.
+Count: 224 DOI: 10.1039/c7np00064b
+License URL: http://creativecommons.org/licenses/by/3.0/
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2019/NP/C7NP00064B'}
+
+Count: 225 DOI: 10.1039/c7ra06106d
+No license information.
+Count: 226 DOI: 10.1039/c7sc01127j
+No license information.
+Count: 227 DOI: 10.1039/c8cp01616j
+License URL: http://rsc.li/journals-terms-of-use#chorus
+{'application/pdf': 'http://pubs.rsc.org/en/content/articlepdf/2018/CP/C8CP01616J', 'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2018/CP/C8CP01616J'}
+
+
+Count: 228 DOI: 10.1039/c8cs00298c
+License URL: http://rsc.li/journals-terms-of-use#chorus
+{'application/pdf': 'http://pubs.rsc.org/en/content/articlepdf/2018/CS/C8CS00298C', 'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2018/CS/C8CS00298C'}
+
+
+Count: 229 DOI: 10.1039/c8nr06868b
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2018/NR/C8NR06868B'}
+
+Count: 230 DOI: 10.1039/c8ob01813h
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2018/OB/C8OB01813H'}
+
+Count: 231 DOI: 10.1039/c8qo00357b
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2018/QO/C8QO00357B'}
+
+Count: 232 DOI: 10.1039/c8qo01007b
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2019/QO/C8QO01007B'}
+
+Count: 233 DOI: 10.1039/c9an00950g
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2019/AN/C9AN00950G'}
+
+Count: 234 DOI: 10.1039/c9qo00281b
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2019/QO/C9QO00281B'}
+
+Count: 235 DOI: 10.1039/d0cp05064d
+License URL: http://rsc.li/journals-terms-of-use#chorus
+{'application/pdf': 'http://pubs.rsc.org/en/content/articlepdf/2020/CP/D0CP05064D', 'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2020/CP/D0CP05064D'}
+
+
+Count: 236 DOI: 10.1039/d0sc03664a
+License URL: http://creativecommons.org/licenses/by-nc/3.0/
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2020/SC/D0SC03664A'}
+
+Count: 237 DOI: 10.1039/d1me00055a
+License URL: http://rsc.li/journals-terms-of-use#chorus
+{'application/pdf': 'http://pubs.rsc.org/en/content/articlepdf/2021/ME/D1ME00055A', 'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2021/ME/D1ME00055A'}
+
+
+Count: 238 DOI: 10.1039/d1qo00034a
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2021/QO/D1QO00034A'}
+
+Count: 239 DOI: 10.1039/d1qo00089f
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2021/QO/D1QO00089F'}
+
+Count: 240 DOI: 10.1039/d2cp02773a
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2022/CP/D2CP02773A'}
+
+Count: 241 DOI: 10.1039/d2nj02587f
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2022/NJ/D2NJ02587F'}
+
+Count: 242 DOI: 10.1039/d2qo00410k
+License URL: http://rsc.li/journals-terms-of-use
+{'unspecified': 'http://pubs.rsc.org/en/content/articlepdf/2022/QO/D2QO00410K'}
+
+Count: 243 DOI: 10.1055/s-0042-111393
+No license information.
+Count: 244 DOI: 10.1071/CH20125
+No license information.
+Count: 245 DOI: 10.1080/07391102.2015.1046937
+No license information.
+Count: 246 DOI: 10.1080/10286020.2020.1729135
+No license information.
+Count: 247 DOI: 10.1080/10286020.2022.2100359
+No license information.
+Count: 248 DOI: 10.1080/14786419.2018.1509330
+No license information.
+Count: 249 DOI: 10.1080/14786419.2020.1869969
+No license information.
+Count: 250 DOI: 10.1142/9781786344090_0003
+No license information.
+Count: 251 DOI: 10.1142/9781786344090_0006
+No license information.
+Count: 252 DOI: 10.1145/3442442.3451368
+No license information.
+Count: 253 DOI: 10.1177/1934578X20920042
+License URL: https://creativecommons.org/licenses/by-nc/4.0/
+{'application/pdf': 'http://journals.sagepub.com/doi/pdf/10.1177/1934578X20920042', 'application/xml': 'http://journals.sagepub.com/doi/full-xml/10.1177/1934578X20920042', 'unspecified': 'http://journals.sagepub.com/doi/pdf/10.1177/1934578X20920042'}
+Successfully downloaded PDF file
+Successfully downloaded XML file
+
+Count: 254 DOI: 10.1186/s13321-018-0305-8
+License URL: http://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1186/s13321-018-0305-8.pdf'}
+Successfully downloaded PDF file
+
+Count: 255 DOI: 10.1186/s13321-019-0374-3
+License URL: http://creativecommons.org/licenses/by/4.0/
+{'application/pdf': 'http://link.springer.com/content/pdf/10.1186/s13321-019-0374-3.pdf'}
+Successfully downloaded PDF file
+
+Count: 256 DOI: 10.1186/s13321-022-00587-7
+License URL: https://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'https://link.springer.com/content/pdf/10.1186/s13321-022-00587-7.pdf'}
+Successfully downloaded PDF file
+
+Count: 257 DOI: 10.13220/j.cnki.jipr.2015.06.004
+No license information.
+Count: 258 DOI: 10.1371/journal.pone.0198321
+License URL: http://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'http://dx.plos.org/10.1371/journal.pone.0198321'}
+
+Count: 259 DOI: 10.19540/j.cnki.cjcmm.20200604.201
+No license information.
+Count: 260 DOI: 10.2174/1570178617666200210111928
+No license information.
+Count: 261 DOI: 10.23939/chcht12.01.018
+No license information.
+Count: 262 DOI: 10.32434/0321-4095-2021-139-6-32-39
+No license information.
+Count: 263 DOI: 10.3389/fmicb.2022.950857
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.frontiersin.org/articles/10.3389/fmicb.2022.950857/full'}
+
+Count: 264 DOI: 10.3389/fmolb.2021.756219
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.frontiersin.org/articles/10.3389/fmolb.2021.756219/full'}
+
+Count: 265 DOI: 10.3390/MD19020095
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1660-3397/19/2/95/pdf'}
+
+Count: 266 DOI: 10.3390/biomedicines10040839
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/2227-9059/10/4/839/pdf'}
+
+Count: 267 DOI: 10.3390/cryst13010016
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/2073-4352/13/1/16/pdf'}
+
+Count: 268 DOI: 10.3390/magnetochemistry4040055
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'http://www.mdpi.com/2312-7481/4/4/55/pdf'}
+
+Count: 269 DOI: 10.3390/md15060171
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1660-3397/15/6/171/pdf'}
+
+Count: 270 DOI: 10.3390/md16060189
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'http://www.mdpi.com/1660-3397/16/6/189/pdf'}
+
+Count: 271 DOI: 10.3390/md17060319
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1660-3397/17/6/319/pdf'}
+
+Count: 272 DOI: 10.3390/md17070423
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1660-3397/17/7/423/pdf'}
+
+Count: 273 DOI: 10.3390/md19020095
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1660-3397/19/2/95/pdf'}
+
+Count: 274 DOI: 10.3390/md20010052
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1660-3397/20/1/52/pdf'}
+
+Count: 275 DOI: 10.3390/molecules22040521
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'http://www.mdpi.com/1420-3049/22/4/521/pdf'}
+
+Count: 276 DOI: 10.3390/molecules24152830
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1420-3049/24/15/2830/pdf'}
+
+Count: 277 DOI: 10.3390/molecules24213890
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1420-3049/24/21/3890/pdf'}
+
+Count: 278 DOI: 10.3390/molecules26113477
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1420-3049/26/11/3477/pdf'}
+
+Count: 279 DOI: 10.3390/molecules27248782
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1420-3049/27/24/8782/pdf'}
+
+Count: 280 DOI: 10.3390/molecules28010214
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1420-3049/28/1/214/pdf'}
+
+Count: 281 DOI: 10.3390/molecules28062449
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/1420-3049/28/6/2449/pdf'}
+
+Count: 282 DOI: 10.3390/plants8090301
+License URL: https://creativecommons.org/licenses/by/4.0/
+{'unspecified': 'https://www.mdpi.com/2223-7747/8/9/301/pdf'}
+
+Count: 283 DOI: 10.3762/bjoc.12.10
+License URL: http://creativecommons.org/licenses/by/2.0
+{'application/pdf': 'https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-12-10.pdf', 'unspecified': 'http://www.beilstein-journals.org/bjoc/content/12/1/10'}
+Successfully downloaded PDF file
+
+Count: 284 DOI: 10.3762/bjoc.13.245
+License URL: http://creativecommons.org/licenses/by/4.0
+{'application/pdf': 'https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-13-245.pdf', 'unspecified': 'http://www.beilstein-journals.org/bjoc/content/13/1/245'}
+Successfully downloaded PDF file
+
+Count: 285 DOI: 10.3998/ark.5550190.0016.307
+No license information.
+Count: 286 DOI: 10.4155/bio-2015-0004
+No license information.
+Count: 287 DOI: 10.5562/cca2767No license information.
