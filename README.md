@@ -8,6 +8,6 @@
 
 `scopus-api-mining.py` : Python file that extracts full text for Elsevier DOIs
 
-`requirements.txt` : Text file that contains which Python packages are needed 
+`requirements.txt` : Text file that contains which Python packages are needed and a thorough explanation for how to run the code
 
 `setup.sh` : UNIX shell scripting file that downloads all necessary packages needed to run the Python files
