@@ -10,7 +10,7 @@ Sarraf, I., Fu, Y., Schneider, J. (2023, October 27). “Text Mining Scholarly P
 
 ----------------------------------------------------------------------------
 
-The project runs using Python3 code and requires the following Python libraries:
+The project runs with Python3 and requires the following Python libraries:
 1. habanero
 2. pymongo
 3. bson
@@ -25,9 +25,9 @@ For more detailed descriptions for running, please refer to the `requirements.tx
 
 `output.txt` : Text file that produces after running through the API pipeline
 
-`pipeline-habanero.py` : Python file that contains code to run the API pipeline 
+`pipeline-habanero.py` : Python script that contains code to run the API pipeline 
 
-`scopus-api-mining.py` : Python file that extracts full text for Elsevier DOIs
+`scopus-api-mining.py` : Python script that extracts full text for Elsevier DOIs
 
 `requirements.txt` : Text file that contains which Python packages are needed and a thorough explanation for how to run the code
 
