@@ -8,6 +8,8 @@ Zheng, H. Fu, Yuanxi, Sarol, J. M., Sarraf, I., Schneider J. “Addressing Unrel
 
 Sarraf, I., Fu, Y., Schneider, J. (2023, October 27). “Text Mining Scholarly Publications using APIs.” METSTI 2023: Workshop on Informetric, Scientometric, and Scientific and Technical Information Research, Association for Information Science and Technology, London. https://doi.org/10.5281/zenodo.10581542
 
+----------------------------------------------------------------------------
+
 The project runs using Python3 code and requires the following Python libraries:
 1. habanero
 2. pymongo
